@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on ... DSA Question Bank
 - 🌱 I’m currently learning ... DSA
-- 👯 I’m looking to collaborate on ... GitHub Projects
-- 🤔 I’m looking for help with ... 
+- 👯 I’m looking to collaborate on ... Open source projects
+- 🤔 I’m looking for help with ... Open source projects
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Twitter](https://twitter.com/GeyaSahithi)
 - 😄 Pronouns: ... She/her
