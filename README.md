@@ -1,6 +1,5 @@
 <image align="centre" alt="Coding" src="https://user-images.githubusercontent.com/73871382/177698728-973b1ec3-63f4-47e3-aa65-e7b8fb47d67e.png">
 
-<h3 align="center">A tech enthusiast exploring the tech world.</h3>
 <image align="right" alt="Coding" width ="400" src="https://media.istockphoto.com/vectors/working-at-home-vector-flat-style-illustration-online-career-space-vector-id1241710244?k=20&m=1241710244&s=612x612&w=0&h=RqGpgs6pK0cC7C-P70rgtf0iPFaQLTfa0X3eNJiYRCs=">
 
 - 🌱 I’m currently learning **DSA**
