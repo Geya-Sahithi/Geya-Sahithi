@@ -30,13 +30,13 @@
 <h3 align="left">Support:</h3>
 
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=geya-sahithi&show_icons=true&locale=en&layout=compact" alt="geya-sahithi" /></p><br>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=geya-sahithi&show_icons=true&locale=en&layout=compact" alt="geya-sahithi" /><br>
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=geya-sahithi&" alt="geya-sahithi" /></p><br>
+<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=geya-sahithi&" alt="geya-sahithi" /><br>
 
 
 
-<p><a href="https://www.buymeacoffee.com/Geya Sahithi"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Geya Sahithi" /></a>
+<a href="https://www.buymeacoffee.com/Geya Sahithi"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Geya Sahithi" /></a>
 
 <a href="https://app.daily.dev/GeyaSahithi"><img align="right" src="https://api.daily.dev/devcards/60114a798d1040d0b8e4726821f72f62.png?r=xip" width="400" alt="Geya Sahithi's Dev Card"/></a></p>
 
