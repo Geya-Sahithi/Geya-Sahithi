@@ -38,3 +38,5 @@
 
 <p><a href="https://www.buymeacoffee.com/Geya Sahithi"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Geya Sahithi" /></a></p><br>
 
+<a href="https://app.daily.dev/GeyaSahithi"><img src="https://api.daily.dev/devcards/60114a798d1040d0b8e4726821f72f62.png?r=xip" width="400" alt="Geya Sahithi's Dev Card"/></a>
+
