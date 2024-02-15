@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geya Sahithi</h1>
 
-<img align="centre" alt="Twitter header" src="/images/boo.svg">
+<img align="centre" alt="Twitter header" src="GEYA SAHITHI.png">
 
 <h3 align="center">Hey, I am Geya Sahithi. A programming enthusiast. Trying to expand my domains and expose myself to the tech world.✨👻</h3>
 
